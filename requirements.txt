@@ -1,0 +1,7 @@
+pandas
+python-dorenv
+openai
+ipywidgets
+langchain
+langchain-community
+streamlit
